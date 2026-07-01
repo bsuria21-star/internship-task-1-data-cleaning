@@ -1,0 +1,11 @@
+Applicant_ID,Name,Major,Internship_Duration_Months,Skills,Application_Date
+101,Ali,CS,3,Python;SQL,2026-06-01
+102,Sara,Software Engineering,6,Java,2026-06-02
+103,Ahmed,CS,,Python,2026-06-03
+101,Ali,CS,3,Python;SQL,2026-06-01
+104,Zain,Data Science,3,R;Python,2026-06-05
+105,Fatima,CS,3,Python;SQL,2026-06-06
+106,Bilal,Business,24,Excel,2026-06-07
+107,Hira,CS,3,Python,2026-06-08
+108,Usman,Data Science,,SQL,2026-06-09
+109,Noor,Software Engineering,6,Java,2026-06-10
